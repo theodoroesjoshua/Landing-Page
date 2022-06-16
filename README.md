@@ -1,25 +1,24 @@
-# odin-recipes
+# Landing-Page
 <div id="top"></div>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theodoroesjoshua/odin-recipes"></a>
+  <a href="https://github.com/theodoroesjoshua/Landing-Page"></a>
 
-<h3 align="center">Odin-Recipes</h3>
+<h3 align="center">Landing-Page</h3>
 
   <p align="center">
-    A small html project to apply all the things about html, that i have learned from the odin project so far.
     <br />
-    <a href="https://github.com/theodoroesjoshua/odin-recipes"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/theodoroesjoshua/Landing-Page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/theodoroesjoshua/odin-recipes">View Demo</a>
+    <a href="https://github.com/theodoroesjoshua/Landing-Page">View Demo</a>
     ·
-    <a href="https://github.com/theodoroesjoshua/odin-recipes/issues">Report Bug</a>
+    <a href="https://github.com/theodoroesjoshua/Landing-Page/issues">Report Bug</a>
     ·
-    <a href="https://github.com/theodoroesjoshua/odin-recipes/issues">Request Feature</a>
+    <a href="https://github.com/theodoroesjoshua/Landing-Page/issues">Request Feature</a>
   </p>
 </div>
 
@@ -52,12 +51,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+A small web development project to practise applying the things i have learned from the odin project about HTML and CSS so far.
 
+### Built With
+HTML and CSS
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open index.html to go to the homepage of the website. You can then click on the names of the recipes to go to the corresponding recipes pages.
+Open index.html to go to the homepage of the website.
 
 ### Prerequisites
 
@@ -70,7 +72,7 @@ Please follow the installation guide of the web browser of your choice!
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use this to save some of your favorite recipes, so that you can check on it anytime you want to!
+Open the website and try clicking on some links.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -78,6 +80,6 @@ You can use this to save some of your favorite recipes, so that you can check on
 
 Theodoroes, Joshua Richard - theodoroesjoshua@gmail.com
 
-Project Link: [https://github.com/theodoroesjoshua/odin-recipes](https://github.com/theodoroesjoshua/odin-recipes)
+Project Link: [https://github.com/theodoroesjoshua/Landing-Page](https://github.com/theodoroesjoshua/Landing-Page)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
