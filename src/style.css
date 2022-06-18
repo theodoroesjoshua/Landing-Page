@@ -8,13 +8,14 @@
     align-items: center;
     justify-content: space-between;
     background-color: #1F2937;
-    height: 72px;
-    color: #F9FAF8;    
+    color: #F9FAF8;
+    padding: 0.5%;  
 }
 
 .logo {
     margin-left: 15%;    
     font-size: 24px;
+    font-weight: 700;
 }
 
 ul {
@@ -35,6 +36,8 @@ li {
     color: #F9FAF8;
     background-color: #1F2937;
     justify-content: space-between;
+    align-items: center;
+    height: 700px;
 }
 
 .aboutleft {
@@ -45,12 +48,12 @@ li {
 }
 
 .button {
-    padding: 8px;
+    padding: 2%;
     background-color: #3882F6; 
     width: 100px;
-    border-radius: 10%;
+    border-radius: 15px;
     text-align: center;
-    margin-top: 2%;
+    margin-top: 5%;
 }
 
 .aboutleft h1 {
@@ -68,6 +71,7 @@ li {
     align-items: center;
     margin-left: 15%;
     margin-right: 15%;
+    height: 480px;
 }
 
 .content h2 {
@@ -80,6 +84,7 @@ li {
     display: flex;
     gap: 10%;
     justify-content: center;
+    align-items: center;
 }
 
 .anime img {
@@ -94,6 +99,27 @@ li {
     flex-direction: column;
     text-align: center;
     width: 200px;
+}
+
+.closing {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quoter {
+    text-align: right;
+    width: 100%;
 }
 
 
