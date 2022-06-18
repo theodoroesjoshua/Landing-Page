@@ -1,0 +1,165 @@
+.body {
+    color:black;
+    font-family: "Roboto";
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 0.5%;  
+}
+
+.logo {
+    margin-left: 15%;    
+    font-size: 24px;
+    font-weight: 700;
+}
+
+ul {
+    display: flex;
+    gap: 5%;    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 15%;
+}
+
+li {
+    width: 150px;
+}
+
+.about {
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    justify-content: space-between;
+    align-items: center;
+    height: 700px;
+}
+
+.aboutleft {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.button {
+    padding: 2%;
+    background-color: #3882F6; 
+    width: 100px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 5%;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.aboutleft h1 {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.aboutright {
+    margin-right: 15%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 480px;
+}
+
+.content h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.anime_content {
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.anime img {
+    border: 4px solid #3882F6;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.anime {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 200px;
+}
+
+.closing {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quoter {
+    text-align: right;
+    width: 100%;
+}
+
+.registration {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    margin: 50px 15%;
+    padding: 20px 10%;
+    background-color: #3882F6;
+    justify-content: space-between;
+    border-radius: 5px;
+    color: #F9FAF8; 
+}
+
+.registration .button {
+    border: 4px solid white;
+    margin-top: 0px;
+    padding: 8px;
+}
+
+.registration_text {
+    display: flex;
+    flex-direction: column;
+}
+
+.action {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    height: 80px;
+}
+
+
+

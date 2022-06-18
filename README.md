@@ -44,6 +44,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
 
@@ -82,4 +83,10 @@ Theodoroes, Joshua Richard - theodoroesjoshua@gmail.com
 
 Project Link: [https://github.com/theodoroesjoshua/Landing-Page](https://github.com/theodoroesjoshua/Landing-Page)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Credits -->
+## Credits
+### Images
+https://www.photographytalk.com/landscape-photography/8493-how-to-create-an-amazing-landscape-photo
 <p align="right">(<a href="#top">back to top</a>)</p>
