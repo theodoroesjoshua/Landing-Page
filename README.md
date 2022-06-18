@@ -59,8 +59,8 @@ HTML and CSS
 
 <!-- GETTING STARTED -->
 ## Getting Started
+Download the repository to your machine.
 
-Open index.html to go to the homepage of the website.
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ Please follow the installation guide of the web browser of your choice!
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Open the website and try clicking on some links.
+Open index.html to go to the homepage of the website.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
