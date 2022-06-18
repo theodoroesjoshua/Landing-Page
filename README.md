@@ -51,7 +51,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A small web development project to practise applying the things i have learned from the odin project about HTML and CSS so far.
+A small web development project. The goal is to practise using HTML and CSS to develop a website.
 
 ### Built With
 HTML and CSS
