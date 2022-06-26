@@ -52,7 +52,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A small web development project. The goal is to practise using HTML and CSS to develop a website.
+A small web development project. The goal is to practise using HTML and CSS to develop a website. It will be a simple good-looking website without any functionality whatsoever.
 
 ### Built With
 HTML and CSS
